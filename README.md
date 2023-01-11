@@ -1,8 +1,8 @@
-
+# On-chain renderer
 
 Service worker that allows you to render pages from my blog stored on Ethereum layer 2 (Optimism) directly in the browser.
 
-It's a fork of the more extensive project by `numtel`, that’s been stripped down to the bare essentials needed to retrieve and display content stored on-chain.
+It's a fork of the more extensive project by `numtel` that’s been stripped down to the bare essentials needed to retrieve and display content stored on-chain.
 
 ## Installation
 
